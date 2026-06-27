@@ -35,14 +35,14 @@ Users can create posts, share media, and receive location-based content from peo
 ---
 
 Features :
-Location based community feed
-Emergency alert broadcasting
-Nearby post filtering within a defined radius
-Anonymous posting option
-Like and comment functionality
-Image and media uploads
-Category filters for posts
-Real time community interaction
+  Location based community feed
+  Emergency alert broadcasting
+  Nearby post filtering within a defined radius
+  Anonymous posting option
+  Like and comment functionality
+  Image and media uploads
+  Category filters for posts
+  Real time community interaction
 
 ---
 
