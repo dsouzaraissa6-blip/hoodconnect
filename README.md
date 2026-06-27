@@ -6,6 +6,12 @@ Users can create posts, share media, and receive location based content from peo
 
 ---
 
+## 🌐 Live Demo
+
+Try HoodConnect here:
+https://hoodconnect.vercel.app/
+
+
 ## ✨ Features
 
 * 📍 Live location based community feed
